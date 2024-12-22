@@ -1,78 +1,38 @@
-[01:13:45] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:13:46] [ServerMain/INFO]: Loaded 7 recipes
-[01:13:46] [ServerMain/INFO]: Loaded 1271 advancements
-[01:13:47] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[01:13:47] [Server thread/INFO]: Loading properties
-[01:13:47] [Server thread/INFO]: Default game type: SURVIVAL
-[01:13:47] [Server thread/INFO]: Generating keypair
-[01:13:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:13:47] [Server thread/INFO]: Using epoll channel type
-[01:13:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:13:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:13:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:13:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:13:47] [Server thread/INFO]: Preparing level "world"
-[01:13:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:13:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:13:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:13:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:13:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:13:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:13:55] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[01:13:55] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[01:13:56] [Worker-Main-3/INFO]: Preparing spawn area: 3%
-[01:13:56] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[01:13:57] [Worker-Main-1/INFO]: Preparing spawn area: 5%
-[01:13:57] [Worker-Main-3/INFO]: Preparing spawn area: 7%
-[01:13:58] [Worker-Main-2/INFO]: Preparing spawn area: 9%
-[01:13:58] [Worker-Main-1/INFO]: Preparing spawn area: 10%
-[01:13:59] [Worker-Main-3/INFO]: Preparing spawn area: 12%
-[01:13:59] [Worker-Main-2/INFO]: Preparing spawn area: 13%
-[01:14:00] [Worker-Main-3/INFO]: Preparing spawn area: 15%
-[01:14:00] [Worker-Main-1/INFO]: Preparing spawn area: 17%
-[01:14:01] [Worker-Main-3/INFO]: Preparing spawn area: 19%
-[01:14:01] [Worker-Main-1/INFO]: Preparing spawn area: 21%
-[01:14:02] [Worker-Main-1/INFO]: Preparing spawn area: 23%
-[01:14:02] [Worker-Main-2/INFO]: Preparing spawn area: 25%
-[01:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 27%
-[01:14:03] [Worker-Main-1/INFO]: Preparing spawn area: 28%
-[01:14:04] [Worker-Main-1/INFO]: Preparing spawn area: 31%
-[01:14:04] [Worker-Main-2/INFO]: Preparing spawn area: 32%
-[01:14:05] [Worker-Main-1/INFO]: Preparing spawn area: 35%
-[01:14:05] [Worker-Main-2/INFO]: Preparing spawn area: 37%
-[01:14:06] [Worker-Main-1/INFO]: Preparing spawn area: 40%
-[01:14:06] [Worker-Main-3/INFO]: Preparing spawn area: 42%
-[01:14:07] [Worker-Main-3/INFO]: Preparing spawn area: 44%
-[01:14:07] [Worker-Main-1/INFO]: Preparing spawn area: 47%
-[01:14:08] [Worker-Main-1/INFO]: Preparing spawn area: 49%
-[01:14:08] [Worker-Main-2/INFO]: Preparing spawn area: 52%
-[01:14:09] [Worker-Main-1/INFO]: Preparing spawn area: 54%
-[01:14:09] [Worker-Main-3/INFO]: Preparing spawn area: 57%
-[01:14:10] [Worker-Main-2/INFO]: Preparing spawn area: 58%
-[01:14:10] [Worker-Main-2/INFO]: Preparing spawn area: 62%
-[01:14:11] [Worker-Main-2/INFO]: Preparing spawn area: 64%
-[01:14:11] [Worker-Main-3/INFO]: Preparing spawn area: 68%
-[01:14:12] [Worker-Main-1/INFO]: Preparing spawn area: 70%
-[01:14:12] [Worker-Main-1/INFO]: Preparing spawn area: 73%
-[01:14:13] [Worker-Main-3/INFO]: Preparing spawn area: 76%
-[01:14:13] [Worker-Main-1/INFO]: Preparing spawn area: 79%
-[01:14:14] [Worker-Main-2/INFO]: Preparing spawn area: 82%
-[01:14:14] [Worker-Main-2/INFO]: Preparing spawn area: 85%
-[01:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 87%
-[01:14:15] [Worker-Main-2/INFO]: Preparing spawn area: 90%
-[01:14:16] [Worker-Main-3/INFO]: Preparing spawn area: 93%
-[01:14:16] [Worker-Main-1/INFO]: Preparing spawn area: 98%
-[01:14:17] [Server thread/INFO]: Time elapsed: 24336 ms
-[01:14:17] [Server thread/INFO]: Done (29.485s)! For help, type "help"
-[01:18:17] [Server thread/INFO]: RodrigoFK[/[0:0:0:0:0:0:0:1%0]:43430] logged in with entity id 358 at (-0.5, 62.0, -5.5)
-[01:18:17] [Server thread/INFO]: RodrigoFK joined the game
-[01:19:32] [Server thread/INFO]: RodrigoFK lost connection: Timed out
-[01:19:32] [Server thread/INFO]: RodrigoFK left the game
-[01:35:48] [Server thread/INFO]: RodrigoFK[/[0:0:0:0:0:0:0:1%0]:36180] logged in with entity id 726 at (31.593330826904804, 64.0, -3.4652265913210294)
-[01:35:48] [Server thread/INFO]: RodrigoFK joined the game
-[01:36:12] [Server thread/INFO]: RodrigoFK lost connection: You logged in from another location
-[01:36:12] [Server thread/INFO]: RodrigoFK left the game
-[01:36:12] [Server thread/INFO]: RodrigoFK[/[0:0:0:0:0:0:0:1%0]:48412] logged in with entity id 823 at (32.348162809020614, 64.0, 0.621094364773336)
-[01:36:12] [Server thread/INFO]: RodrigoFK joined the game
-[01:39:58] [Server thread/INFO]: RodrigoFK lost connection: Timed out
-[01:39:58] [Server thread/INFO]: RodrigoFK left the game
+[21:12:00] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:12:02] [ServerMain/INFO]: Loaded 7 recipes
+[21:12:02] [ServerMain/INFO]: Loaded 1271 advancements
+[21:12:03] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:12:03] [Server thread/INFO]: Loading properties
+[21:12:03] [Server thread/INFO]: Default game type: SURVIVAL
+[21:12:03] [Server thread/INFO]: Generating keypair
+[21:12:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:12:03] [Server thread/INFO]: Using epoll channel type
+[21:12:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:12:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:12:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:12:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:12:03] [Server thread/INFO]: Preparing level "world"
+[21:12:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:12:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:12:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:12:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:12:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:12:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:12:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:12:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:12:10] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[21:12:10] [Worker-Main-3/INFO]: Preparing spawn area: 23%
+[21:12:11] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+[21:12:11] [Worker-Main-3/INFO]: Preparing spawn area: 68%
+[21:12:12] [Worker-Main-1/INFO]: Preparing spawn area: 77%
+[21:12:12] [Worker-Main-1/INFO]: Preparing spawn area: 84%
+[21:12:13] [Worker-Main-1/INFO]: Preparing spawn area: 87%
+[21:12:13] [Worker-Main-3/INFO]: Preparing spawn area: 88%
+[21:12:14] [Worker-Main-2/INFO]: Preparing spawn area: 95%
+[21:12:14] [Worker-Main-3/INFO]: Preparing spawn area: 97%
+[21:12:14] [Server thread/INFO]: Time elapsed: 8270 ms
+[21:12:14] [Server thread/INFO]: Done (11.296s)! For help, type "help"
+[21:12:30] [Server thread/INFO]: Cer0d0s[/[0:0:0:0:0:0:0:1%0]:56330] logged in with entity id 243 at (-8.5, 70.0, -2.5)
+[21:12:30] [Server thread/INFO]: Cer0d0s joined the game
+[21:14:00] [Server thread/INFO]: Cer0d0s lost connection: Timed out
+[21:14:00] [Server thread/INFO]: Cer0d0s left the game
